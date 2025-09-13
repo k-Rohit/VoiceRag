@@ -1,0 +1,8 @@
+requests
+openai
+qdrant-client
+tqdm
+python-dotenv
+crewai
+fitz
+langchain
