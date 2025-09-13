@@ -4,5 +4,5 @@ qdrant-client
 tqdm
 python-dotenv
 crewai
-fitz
+PyMuPDF
 langchain
